@@ -144,7 +144,7 @@ Visit: [http://localhost:5173](http://localhost:5173)
 ## 🎥 Demo Video
 
 Watch the demo walkthrough on Loom:
-📽 [Click to Watch](https://www.loom.com/share/a059dadfd5cb43bd919475619d3da648?sid=48cf1187-d00d-48fd-b7f2-3938cb8ae780)
+📽 [Click to Watch](https://www.loom.com/share/64918b6a0e43409ab15e770bdd754568?sid=b68c1aa1-0763-4427-b0f5-a294624d4397).
 
 ---
 
