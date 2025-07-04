@@ -1,0 +1,21 @@
+.register-container {
+  width: 100%;
+  max-width: 400px;
+  border-radius: 12px;
+  background-color: #ffffff;
+  transition: box-shadow 0.3s ease;
+}
+
+.register-container:hover {
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.12);
+}
+
+.register-container input:focus {
+  border-color: #6366f1;
+  box-shadow: 0 0 0 0.2rem rgba(99, 102, 241, 0.25);
+  outline: none;
+}
+
+.register-container button {
+  font-weight: 500;
+}
